@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selftask", "Selftask.csproj", "{AC728033-4B99-4AE5-90AD-F7E1B61EEBAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC728033-4B99-4AE5-90AD-F7E1B61EEBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC728033-4B99-4AE5-90AD-F7E1B61EEBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC728033-4B99-4AE5-90AD-F7E1B61EEBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC728033-4B99-4AE5-90AD-F7E1B61EEBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {689C5C22-F362-4853-95C1-1B2B1AD2507B}
+	EndGlobalSection
+EndGlobal

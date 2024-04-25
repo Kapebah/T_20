@@ -1,0 +1,7 @@
+S:\work\FoAP\T_20\T_20 (Tasks)\Selftask\bin\Debug\Selftask.exe.config
+S:\work\FoAP\T_20\T_20 (Tasks)\Selftask\bin\Debug\Selftask.exe
+S:\work\FoAP\T_20\T_20 (Tasks)\Selftask\bin\Debug\Selftask.pdb
+S:\work\FoAP\T_20\T_20 (Tasks)\Selftask\obj\Debug\Selftask.csproj.AssemblyReference.cache
+S:\work\FoAP\T_20\T_20 (Tasks)\Selftask\obj\Debug\Selftask.csproj.CoreCompileInputs.cache
+S:\work\FoAP\T_20\T_20 (Tasks)\Selftask\obj\Debug\Selftask.exe
+S:\work\FoAP\T_20\T_20 (Tasks)\Selftask\obj\Debug\Selftask.pdb
