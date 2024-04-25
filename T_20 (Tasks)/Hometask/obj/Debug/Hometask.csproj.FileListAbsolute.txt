@@ -1,0 +1,7 @@
+S:\work\FoAP\T_20\T_20 (Tasks)\Hometask\bin\Debug\Hometask.exe.config
+S:\work\FoAP\T_20\T_20 (Tasks)\Hometask\bin\Debug\Hometask.exe
+S:\work\FoAP\T_20\T_20 (Tasks)\Hometask\bin\Debug\Hometask.pdb
+S:\work\FoAP\T_20\T_20 (Tasks)\Hometask\obj\Debug\Hometask.csproj.AssemblyReference.cache
+S:\work\FoAP\T_20\T_20 (Tasks)\Hometask\obj\Debug\Hometask.csproj.CoreCompileInputs.cache
+S:\work\FoAP\T_20\T_20 (Tasks)\Hometask\obj\Debug\Hometask.exe
+S:\work\FoAP\T_20\T_20 (Tasks)\Hometask\obj\Debug\Hometask.pdb
