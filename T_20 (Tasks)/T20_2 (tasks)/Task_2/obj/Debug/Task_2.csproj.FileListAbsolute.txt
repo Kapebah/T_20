@@ -1,0 +1,7 @@
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_2\bin\Debug\Task_2.exe.config
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_2\bin\Debug\Task_2.exe
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_2\bin\Debug\Task_2.pdb
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_2\obj\Debug\Task_2.exe
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_2\obj\Debug\Task_2.pdb
