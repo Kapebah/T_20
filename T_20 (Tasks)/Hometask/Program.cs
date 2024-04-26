@@ -15,24 +15,24 @@ namespace Hometask
             {
                 WriteLine("Объект №1\n");
                 Calculator<int, int> calculator = new Calculator<int, int>(1, 2);
-                calculator.Add();
-                calculator.Substract();
-                calculator.Multiply();
-                calculator.Divide();
+                calculator.Add("int");
+                calculator.Substract("int");
+                calculator.Multiply("int");
+                calculator.Divide("int");
 
                 WriteLine("\nОбъект №2\n");
                 Calculator<int, double> calculator1 = new Calculator<int, double>(2, 4);
-                calculator1.Add();
-                calculator1.Substract();
-                calculator1.Multiply();
-                calculator1.Divide();
+                calculator1.Add("double");
+                calculator1.Substract("double");
+                calculator1.Multiply("double");
+                calculator1.Divide("double");
 
                 WriteLine("\nОбъект №3\n");
                 Calculator<int, string> calculator2 = new Calculator<int, string>(3, "5");
-                calculator2.Add();
-                calculator2.Substract();
-                calculator2.Multiply();
-                calculator2.Divide();
+                calculator2.Add("string");
+                calculator2.Substract("string");
+                calculator2.Multiply("string");
+                calculator2.Divide("string");
             }
             catch (Exception ex)
             {
