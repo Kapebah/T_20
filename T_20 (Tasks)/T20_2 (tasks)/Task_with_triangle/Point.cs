@@ -8,7 +8,7 @@ using static System.Console;
 
 namespace Task_with_triangle
 {
-    abstract class Point<T, K> where T : Point<T, K>
+    abstract class Point<T, K> 
     {
         public T X { get; set; }
         public K Y { get; set; }

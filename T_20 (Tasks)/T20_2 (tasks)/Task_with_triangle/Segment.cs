@@ -8,7 +8,7 @@ using static System.Console;
 
 namespace Task_with_triangle
 {
-    class Segment<T, K> : Point<T, K> where T : Segment<T, K>
+    class Segment<T, K> : Point<T, K> 
     {
         /// <summary>
         /// Координаты точек

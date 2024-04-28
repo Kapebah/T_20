@@ -3,7 +3,7 @@ using static System.Console;
 
 namespace Task_with_triangle
 {
-    class Triangle<T, K> : Segment<T, K> where T : Triangle<T, K>
+    class Triangle<T, K> : Segment<T, K> 
     {
         /// <summary>
         /// Третья вершина треугольника
