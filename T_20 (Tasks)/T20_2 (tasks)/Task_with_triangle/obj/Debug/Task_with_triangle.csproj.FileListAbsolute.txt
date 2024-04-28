@@ -1,0 +1,7 @@
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_with_triangle\bin\Debug\Task_with_triangle.exe.config
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_with_triangle\bin\Debug\Task_with_triangle.exe
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_with_triangle\bin\Debug\Task_with_triangle.pdb
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_with_triangle\obj\Debug\Task_with_triangle.csproj.AssemblyReference.cache
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_with_triangle\obj\Debug\Task_with_triangle.csproj.CoreCompileInputs.cache
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_with_triangle\obj\Debug\Task_with_triangle.exe
+S:\work\FoAP\T_20\T_20 (Tasks)\T20_2 (tasks)\Task_with_triangle\obj\Debug\Task_with_triangle.pdb
